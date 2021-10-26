@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T14:52:17.389Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="15.5.9" etag="bCvYpVQA8kwnFIO8G76t" type="github"><diagram id="Gas3rXYxARKtUtjYOsK6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-26T13:25:31.815Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="n7OO-9OrqTtY_KdeZe8a" version="15.5.9" type="github">
+  <diagram id="Gas3rXYxARKtUtjYOsK6" name="Page-1">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NeERGeXccnXu-iJ_TBLT-1" value="&lt;br&gt;Redis&lt;br&gt;GeoHash" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="820" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NeERGeXccnXu-iJ_TBLT-4" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Redis&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;GeoHash&lt;/span&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="820" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NeERGeXccnXu-iJ_TBLT-5" value="&lt;br&gt;Redis&lt;br&gt;GeoHash" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="820" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NeERGeXccnXu-iJ_TBLT-6" value="分片路由" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="760" width="265" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NeERGeXccnXu-iJ_TBLT-11" value="数据过期" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="700" width="265" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NeERGeXccnXu-iJ_TBLT-12" value="&lt;span&gt;在线时间更新&lt;br&gt;&lt;/span&gt;地理位置更新&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NeERGeXccnXu-iJ_TBLT-13" value="&lt;div&gt;&lt;span&gt;在线时间&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;地理位置&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="520" width="180" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
